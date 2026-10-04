@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Video OS",
+  "description": "Unified agentic video operating system integrating OpenMontage pipelines, multi-kernel process scheduler, universal NLE timeline engine, Remotion and FFmpeg renderers, semantic video DB, and sovereign creator governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
